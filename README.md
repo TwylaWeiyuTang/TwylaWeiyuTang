@@ -28,6 +28,13 @@
 <img align="left" alt="JavaScript" witdth="26" height="30" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />
 
 
+<img align="left" alt="JavaScript" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" />
+
+<img align="left" alt="JavaScript" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1319px-Solidity_logo.svg.png" />
+
+<img align="left" alt="JavaScript" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" />
+
+<img align="left" alt="JavaScript" witdth="26" height="30" src="https://cdn.worldvectorlogo.com/logos/redux.svg" />
 
 
 
