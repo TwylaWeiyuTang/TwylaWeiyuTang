@@ -25,6 +25,7 @@
 
 <img align="left" alt="JavaScript" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" />
 
+<img align="left" alt="JavaScript" witdth="26" height="30" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />
 
 
 
