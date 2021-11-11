@@ -36,5 +36,6 @@
 
 <img align="left" alt="JavaScript" witdth="26" height="30" src="https://cdn.worldvectorlogo.com/logos/redux.svg" />
 
+<img align="left" alt="JavaScript" witdth="26" height="30" src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png" />
 
 
