@@ -42,4 +42,12 @@
 
 <img align="left" alt="JavaScript" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png" />
 
+<img align="left" alt="JavaScript" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" />
 
+<img align="left" alt="JavaScript" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" />
+
+<img align="left" alt="JavaScript" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" />
+
+<img align="left" alt="JavaScript" witdth="26" height="30" src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" />
+
+<img align="left" alt="JavaScript" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" />
