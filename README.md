@@ -46,7 +46,7 @@
 
 <img align="left" alt="JavaScript" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" />
 
-<br>
+<br><br>
 
 <img align="left" alt="JavaScript" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" />
 
