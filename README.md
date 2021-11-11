@@ -17,7 +17,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="26" src="https://image.pngaaa.com/311/582311-middle.png" />
+<img align="left" alt="Python" width="26" src="https://mpng.subpng.com/20190328/xcl/kisspng-europython-logo-programming-language-portable-netw-join-our-team-job-opportunities-sample-solutions-5c9d90c3c63625.6121225015538300838119.jpg" />
 
 <img align="left" alt="GitHub" width="26" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
