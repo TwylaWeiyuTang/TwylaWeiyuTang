@@ -2,7 +2,7 @@
 
 ## I'm a Finance Professional, Data Analyst and Blockchain Developer!
 - 🔭 I’m currently working on my own Smart Contract Token - Sushiba!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Develop Swap and NFT Marketplace for Sushiba and bring Sushiba to next level!
 - ⚡ Fun fact: I love to ski 🎿 and work-out 🏋️
