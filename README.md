@@ -88,6 +88,7 @@
  <h4>3D Modelling and Game</h4>
  <img align="left" alt="Three.js" witdth="26" height="30" src="http://ingenuitysoftwarelabs.com/wp-content/uploads/2022/08/three-js-logo.png" />
  <img align="left" alt="Phaser" witdth="26" height="30" src="https://phaser.io/images/img.png" />
+ <img align="left" alt="Phaser" witdth="26" height="30" src="https://ph-files.imgix.net/25b07021-eab0-4596-b444-0fcc41031595.png?auto=format" />
  
  <br/>
  
