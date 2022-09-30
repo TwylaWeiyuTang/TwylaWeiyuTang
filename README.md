@@ -1,18 +1,19 @@
 ### Hi there, I'm Twyla 👋
 
-## I'm a Finance Professional, Data Analyst and Blockchain Developer!
-- 🔭 I’m currently working on my own Smart Contract Token - Sushiba!
+## I'm a Finance Professional, Blockchain Developer and Full-Stack Web Developer!
+- 🔭 I’m currently working on my own Web3 and DeFi Project - Sushiba!
 - 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Develop Swap and NFT Marketplace for Sushiba and bring Sushiba to next level!
-- ⚡ Fun fact: I love to ski 🎿 and work-out 🏋️
+- 👯 I’m looking to collaborate with other content creators and joining a collaborative team 
+
 
 ### Connect with me:
-
-<img align="left" alt="codeSTACKr | FaceBook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://www.linkedin.com/in/weiyu-tang-297116186/" target="_blank" rel="noreferer" >
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
+<a href="https://www.instagram.com/twyla_weiyu_tang/" target="_blank" rel="noreferer" >
+<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 <br />
 
 ### Languages and Tools:
