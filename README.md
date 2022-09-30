@@ -41,6 +41,7 @@
   <img align="left" alt="Redis" witdth="26" height="30" src="https://avatars.githubusercontent.com/u/1529926?s=200&v=4" />
   <img align="left" alt="Firebase" witdth="26" height="30" src="https://www.gstatic.com/devrel-devsite/prod/v3462c96ac67b219823d8a74cdbc490c2c319f90ecc3df183f872ce93dd06a4da/firebase/images/touchicon-180.png" />
   <img align="left" alt="Stripe" witdth="26" height="30" src="https://global-uploads.webflow.com/5ee101eb419db01a9ac4e36e/62334c4e1997f5320092b607_2560px-Stripe_Logo%2C_revised_2016.svg.png" />
+  <img align="left" alt="Flask" witdth="26" height="30" src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png" />
   
   <br/>
 
@@ -95,13 +96,6 @@
  <h4>Design and Content Creation</h4>
  <img align="left" alt="Figma" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
  <img align="left" alt="Photoshop" witdth="26" height="30" src="https://cdn.pixabay.com/photo/2015/11/27/10/55/photoshop-1065296_1280.jpg" />
-
- <br/>
- 
- 
- <h4>Others</h4>
-<img align="left" alt="Flask" witdth="26" height="30" src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png" />
-
 
 <br><br>
 ## Well, the list is not going to end like this. I'm keeping expanding my knowledge!
