@@ -64,6 +64,18 @@
  
  <br/>
  
+  <h4>Blockchain</h4>
+ <img align="left" alt="Solidity" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1319px-Solidity_logo.svg.png" />
+ <img align="left" alt="Ethers.js" witdth="26" height="30" src="https://21870089.fs1.hubspotusercontent-na1.net/hubfs/21870089/ethersjs.png" />
+ <img align="left" alt="Web3.js" witdth="26" height="30" src="https://repository-images.githubusercontent.com/24655114/c71c5800-6a8c-11e9-9117-8ec357c9f69e" />
+ <img align="left" alt="Infura" witdth="26" height="30" src="https://logovectorseek.com/wp-content/uploads/2019/11/infura-inc-logo-vector.png" />
+ <img align="left" alt="Moralis" witdth="26" height="30" src="https://moralis.io/wp-content/uploads/2021/06/cropped-Moralis-Favicon-Glass.png" />
+ <img align="left" alt="HardHat" witdth="26" height="30" src="https://chainstack.com/wp-content/uploads/2021/12/hardhat.png" />
+ <img align="left" alt="Truffle" witdth="26" height="30" src="https://miro.medium.com/max/1200/1*HEVz67GINyCZckRkeEidYw.png" />
+ <img align="left" alt="Ganache" witdth="26" height="30" src="https://i0.wp.com/www.mycryptopedia.com/wp-content/uploads/2019/11/rsz_ganachee.png?fit=563%2C307&ssl=1" />
+ 
+ <br/>
+ 
  <h4>Data Analytics and Visualisation</h4>
  <img align="left" alt="Python" width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />
  <img align="left" alt="R" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" />
@@ -83,14 +95,6 @@
 
  <br/>
  
- <h4>Blockchain</h4>
- <img align="left" alt="Solidity" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1319px-Solidity_logo.svg.png" />
- <img align="left" alt="Ethers.js" witdth="26" height="30" src="https://21870089.fs1.hubspotusercontent-na1.net/hubfs/21870089/ethersjs.png" />
- <img align="left" alt="Web3.js" witdth="26" height="30" src="https://repository-images.githubusercontent.com/24655114/c71c5800-6a8c-11e9-9117-8ec357c9f69e" />
- <img align="left" alt="Infura" witdth="26" height="30" src="https://logovectorseek.com/wp-content/uploads/2019/11/infura-inc-logo-vector.png" />
- <img align="left" alt="Moralis" witdth="26" height="30" src="https://moralis.io/wp-content/uploads/2021/06/cropped-Moralis-Favicon-Glass.png" />
- 
- <br/>
  
  <h4>Others</h4>
 <img align="left" alt="Flask" witdth="26" height="30" src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png" />
