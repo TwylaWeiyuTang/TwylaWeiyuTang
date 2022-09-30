@@ -2,8 +2,9 @@
 
 ## I'm a Finance Professional, Blockchain Developer and Full-Stack Web Developer!
 - 🔭 I’m currently working on my own Web3 and DeFi Project - Sushiba!
+- 🥷 I'm an enthusiast in designing and realising my design with code!
 - 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other content creators and joining a collaborative team 
+- 👯 I’m looking to collaborate with other content creators and join a collaborative team 
 
 
 ### Connect with me:
