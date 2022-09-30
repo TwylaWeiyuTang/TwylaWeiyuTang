@@ -91,7 +91,7 @@
  
  <br/>
  
- <h4>Design and Content Create</h4>
+ <h4>Design and Content Creation</h4>
  <img align="left" alt="Figma" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
  <img align="left" alt="Photoshop" witdth="26" height="30" src="https://cdn.pixabay.com/photo/2015/11/27/10/55/photoshop-1065296_1280.jpg" />
 
