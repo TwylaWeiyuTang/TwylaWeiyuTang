@@ -73,7 +73,6 @@
  
  <h4>3D Modelling and Game</h4>
  <img align="left" alt="Three.js" witdth="26" height="30" src="http://ingenuitysoftwarelabs.com/wp-content/uploads/2022/08/three-js-logo.png" />
- <img align="left" alt="WebGL" witdth="26" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/WebGL_Logo.svg/1280px-WebGL_Logo.svg.png" />
  <img align="left" alt="Phaser" witdth="26" height="30" src="https://phaser.io/images/img.png" />
  
  <br/>
@@ -98,4 +97,4 @@
 
 
 <br><br>
-### Well, the list is not going to end like this. I'm keeping expanding my knowledge!
+## Well, the list is not going to end like this. I'm keeping expanding my knowledge!
